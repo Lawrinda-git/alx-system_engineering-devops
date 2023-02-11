@@ -1,1 +1,1 @@
-switchimg to user betty
+Shell Permissions
